@@ -1,0 +1,16 @@
+com\hoteles\model\Consulta.class
+com\hoteles\controller\ClienteDaoImpl.class
+com\hoteles\controller\ClienteDao.class
+com\hoteles\controller\AccesoDaoImpl.class
+com\hoteles\services\ClienteService.class
+com\hoteles\HotelesAppBeApplication$1.class
+com\hoteles\HotelesAppBeApplication.class
+com\hoteles\controller\AccesoDao.class
+com\hoteles\controller\HabitacionDao.class
+com\hoteles\model\Habitacion.class
+com\hoteles\conexion\SpringConfiguration.class
+com\hoteles\model\Cliente.class
+com\hoteles\model\Acceso.class
+com\hoteles\services\HabitacionService.class
+com\hoteles\services\LoginService.class
+com\hoteles\controller\HabitacionDaoImpl.class
